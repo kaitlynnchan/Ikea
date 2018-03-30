@@ -1,0 +1,209 @@
+#header{
+	text-decoration: none;
+	color: black;
+}
+#header:hover{
+	text-decoration: none;
+}
+div{
+	width: 1000px;
+	margin-left: auto;
+    margin-right: auto;
+	margin-top: 20px;
+	font-family: "verdana";
+}
+p{
+	font-size: 12px;
+	word-spacing: 2px;
+	line-height: 17px;
+}
+#long_live{
+	font-size: 12px;
+	color: #666666;
+}
+#before_and_after_div{
+	padding-bottom: 100px;
+}
+.before-appliances{
+	padding-bottom: 300px;
+}
+.b_pic{
+	float: right;
+	padding: 20px 30px 10px;
+}
+.ikea_design{
+	padding-top: 15px;
+}
+table, th{
+	border: 1px solid #A0C2DE;
+	border-collapse: collapse;
+}
+th{
+	padding: 5px 25px 5px 25px;
+	background-color: #0854C7;
+}
+.links{
+	text-decoration: none;
+	color: white;
+	font-size: 12px;
+}
+.yes_link:hover{
+	background-color: #064780;
+}
+#non_link{
+	padding-left: 280px;
+}
+.price{
+	font-size: 15px;
+	color: black;
+}
+.furniture_name{
+	font-size: 13px;
+	color: black;
+}
+#REGISSÖR, #TOFTERYD{
+	float: right;
+}
+#REGISSÖR{
+	padding-right: 60px;
+}
+.middle_name{
+	padding-right: 140px;
+}
+.float_right{
+	float: right;
+}
+.right_name{
+	padding-right: 190px;
+}
+.before_furniture{
+	padding-right: 330px;
+}
+.outside-link{
+	text-decoration: none;
+	font-size: 11px;
+	color: #838383;
+}
+.outside-link:hover{
+	text-decoration: underline;
+	color: black;
+}
+.non-grey{
+	color: black;
+}
+#odd_one_out{
+	padding-right: 320px;
+}
+#odd_out{
+	padding-right: 80px;
+}
+#odd_one{
+	padding-right: 100px;
+}
+#odd{
+	padding-right: 230px;
+}
+.dream-home{
+	font-size: 14px;
+	color: #2525f4;
+	text-decoration: none;
+}
+#footer{	
+	padding-top: 30px;
+	padding-bottom: 50px;
+	background-color: #eee;
+	border: 1px solid #dfdfdf;
+}
+#footer-table, .footer-th-td{
+	text-align: left;
+	font-size: 12px;
+	padding-left: 15px;
+	padding-right: 10px;
+	background-color: #eee;
+	border-color: #eee;
+}
+.footer-link{
+	color: black;
+	text-decoration: none;
+}
+.footer-link:hover{
+	text-decoration: underline;
+}
+#K_A_div{
+	padding-bottom: 100px;
+	margin-top: 50px;
+}
+#bedroomDiv{
+	padding-bottom: 100px;
+	margin-top: 50px;
+	border-bottom: 2px solid #dfdfdf;
+}
+#livingroomDiv{
+	padding-bottom: 100px;
+	margin-top: 50px;
+	border-bottom: 2px solid #dfdfdf;
+}
+#bathroom_div{
+	padding-bottom: 100px;
+	margin-top: 50px;
+	border-bottom: 2px solid #dfdfdf;
+}
+#before_and_after_div{
+	margin-top: 50px;
+	padding-bottom: 200px;
+	border-bottom: 2px solid #dfdfdf;
+}
+.grey-words{
+	color: #838383;
+}
+.grey-words:hover{
+	color: #838383;
+}
+#dark-grey-footer{
+	background-color: #666;
+	padding-left: 4px;
+	padding-bottom: 6px;
+	padding-top: 6px;
+	color: white;
+	margin-top: 0px;
+}
+.dark-grey-link{
+	color: white;
+	text-decoration: none;
+}
+.dark-grey-link:hover{
+	text-decoration: underline;
+}
+#bathroom, #livingroom, #bedroom, #K_A{
+	color: #838383;
+	font-size: 16px;
+}
+.price-big{
+	font-size: 25px;
+	color: black;
+	text-decoration: none;
+}
+.price-big:hover{
+	text-decoration: none;
+}
+#moving-right{
+	padding-right: 373px;
+}
+#moving-left{
+	padding-right: 358px;
+}
+#search-form{
+	margin-top: -80px;
+	padding-left: 400px;
+}
+.example-image-link {
+    display: inline-block;
+    padding: 2px;
+    margin: 0 0.5rem 1rem 0.5rem;
+    background-color: #fff;
+    line-height: 0;
+    border-radius: 4px;
+    transition: background-color 0.5s ease-out;
+}
+
+

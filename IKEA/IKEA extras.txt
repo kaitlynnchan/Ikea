@@ -1,0 +1,346 @@
+
+h2{
+	padding-left: 5px;
+}
+#para2{
+	padding-left: 10px;
+}
+div{
+	width: 1000px;
+	margin-left: auto;
+    margin-right: auto;
+	margin-top: 20px;
+	border-style: solid;
+	border-color: #000000;
+	border-top-color: #ffffff;
+	font-family: "verdana";
+}
+
+
+#blue_div{
+	width: 700px;
+	margin-left: 170px;
+	border-color: #FFFFFF;
+	background-color: #DCF7F3;
+	padding-bottom: 20px;
+	margin-bottom: 100px;
+}
+
+.links{
+	text-decoration: none;
+	color: black;
+	background-color: #046AED;
+}
+
+border-collapse: collapse;
+
+
+table{
+	border-radius: 5px;
+	
+}
+
+
+th{
+	border-top-color: white;
+	border-bottom-color: white;
+	padding-left: 109px;
+	padding-right: 109px;
+	padding-top: 0px;
+	padding-bottom: 0px;
+}
+@font-face{
+	font-family: headline;
+	src: url("HP.TTF");
+}
+
+
+
+
+
+
+
+
+
+
+		<div>
+			<img id="STOCKHOLM" src="armchair-black.jpg" width="300px">
+			
+			<img id="RÅDVIKEN" src="armchair-brown.jpg" width="300px">
+		
+			<img src="rocking-chair.jpg" width="300px">
+			
+			<p id="right_name3" class="furniture float_right"><strong class="furniture_name">RÅDVIKEN</strong> Armchair<br>
+			<strong class="price">$199.00</strong></p>
+			
+			<p id="middle_name3" class="furniture float_right"><strong class="furniture_name">STOCKHOLM</strong> High-back armchair<br>
+			<strong class="price">$499.00</strong></p>
+		
+			<p class="furniture"><strong class="furniture_name">IKEA PS GULLHOLMEN</strong> rocking chair<br>
+			<strong class="price">$69.99</strong></p>			
+		</div>
+		
+		<div>
+			<img id="BRIMNES" src="daybed-frame.jpg" width="300px">
+			
+			<img id="IKEA-PS-LÖVÅS" src="sofa-bed-red.jpg" width="300px">
+		
+			<img src="sofa-bed-gray.jpg" width="300px">
+			
+			<p id="right_name4" class="furniture float_right"><strong class="furniture_name">IKEA PS LÖVÅS</strong> Sofa bed<br>
+			<strong class="price">$439.00</strong></p>
+			
+			<p id="middle_name4" class="furniture float_right"><strong class="furniture_name">BRIMNES</strong> Daybed frame with 2 drawers<br>
+			<strong class="price">$339.00</strong></p>
+		
+			<p class="furniture"><strong class="furniture_name">ERSKA</strong> Sofa bed<br>
+			<strong class="price">$599.00</strong></p>
+		</div>
+
+
+
+#REGISSÖR, #TOFTERYD, #VITTSJÖ, #IKEA-PS-2014, #STOCKHOLM, #RÅDVIKEN, #IKEA-PS-LÖVÅS, #BRIMNES{
+	float: right;
+}
+#REGISSÖR, #VITTSJÖ, #STOCKHOLM, #IKEA-PS-LÖVÅS{
+	padding-right: 60px;
+}
+#middle_name, #middle_name2, #middle_name3, #middle_name4{
+	padding-right: 186px;
+}
+.float_right{
+	float: right;
+}
+#right_name, #right_name2, #right_name3, #right_name4{
+	padding-right: 120px;
+}
+
+
+
+
+<span class="linkDivider">|</span>
+
+
+                © Inter IKEA Systems B.V. 1999 - 2016
+                
+                        
+                            
+
+
+
+#before_and_after_div{
+	border-color: #666666;
+	border-top-style: double;
+	border-bottom-style: double;
+	padding-bottom: 200px;
+}
+
+
+
+#livingroomDiv, #K_A_div{
+	border-color: #666666;
+	border-top-style: double;
+	border-bottom-style: double;
+}
+
+
+
+
+
+
+
+
+
+<form action="/ca/en/search/" id="searchForm" method="get" onsubmit="return checkSearch(this)" accept-charset="utf-8,*">
+                                
+                                
+                                    
+                                
+                                    
+                                
+                                <div class="formInput">
+                                    <input type="text" value="" name="query" id="search" autocomplete="off"><span id="indicator" style="display: none"><img src="/ms/img/loading.gif"></span>
+                                </div>
+                                <div class="formBtn">
+                                    <script type="text/javascript">
+                                        //<![CDATA[
+                                            createButton('Search', 'lnkSearchBtnHeader', '', function() { search('searchForm'); });
+                                        //]]>
+                                    </script><div class="buttonContainer"><a id="lnkSearchBtnHeader" class="" href="#"><div class="buttonLeft">&nbsp;</div><div class="buttonCaption"><input type="button" value="Search"></div><div class="buttonRight">&nbsp;</div></a></div>
+                                    <noscript>
+                                        &lt;div class="buttonContainer"&gt;&lt;a href="javascript:void(0);"&gt;&lt;span class="buttonLeft"&gt;&amp;nbsp;&lt;/span&gt;&lt;span class="buttonCaption"&gt;&lt;input id="lnkSearchBtnHeader" type="submit" value="Search" /&gt;&lt;/span&gt;&lt;span class="buttonRight"&gt;&amp;nbsp;&lt;/span&gt;&lt;/a&gt;&lt;/div&gt;
+                                    </noscript>
+                                </div>
+                            </form>
+
+
+
+
+<form action="/ca/en/search/" id="searchForm" method="get" onsubmit="return checkSearch(this)" accept-charset="utf-8,*">
+                                
+                                
+                                    
+                                
+                                    
+                                
+                                <div class="formInput">
+                                    <input type="text" value="" name="query" id="search" autocomplete="off"><span id="indicator" style="display: none"><img src="/ms/img/loading.gif"></span>
+                                </div>
+                                <div class="formBtn">
+                                    <script type="text/javascript">
+                                        //<![CDATA[
+                                            createButton('Search', 'lnkSearchBtnHeader', '', function() { search('searchForm'); });
+                                        //]]>
+                                    </script><div class="buttonContainer"><a id="lnkSearchBtnHeader" class="" href="#"><div class="buttonLeft">&nbsp;</div><div class="buttonCaption"><input type="button" value="Search"></div><div class="buttonRight">&nbsp;</div></a></div>
+                                    <noscript>
+                                        &lt;div class="buttonContainer"&gt;&lt;a href="javascript:void(0);"&gt;&lt;span class="buttonLeft"&gt;&amp;nbsp;&lt;/span&gt;&lt;span class="buttonCaption"&gt;&lt;input id="lnkSearchBtnHeader" type="submit" value="Search" /&gt;&lt;/span&gt;&lt;span class="buttonRight"&gt;&amp;nbsp;&lt;/span&gt;&lt;/a&gt;&lt;/div&gt;
+                                    </noscript>
+                                </div>
+                            </form>
+
+
+
+
+
+
+
+
+
+
+	border-style: solid;
+	border-color: #dfdfdf;
+	border-width: 1px;
+
+
+
+
+
+
+
+
+
+
+
+element.style {
+}
+.example-image-link {
+    display: inline-block;
+    padding: 2px;
+    margin: 0 0.5rem 1rem 0.5rem;
+    background-color: #fff;
+    line-height: 0;
+    border-radius: 4px;
+    transition: background-color 0.5s ease-out;
+}
+
+a {
+    color: #4ae;
+    text-decoration: none;
+    outline: 0;
+}
+*, *:before, *:after {
+    box-sizing: border-box;
+}
+user agent stylesheeta:-webkit-any-link {
+    color: -webkit-link;
+    text-decoration: underline;
+    cursor: auto;
+}
+Inherited from div.image-row
+@media (min-width: 640px)
+.image-row {
+    text-align: left;
+}
+Inherited from body
+body {
+    color: #444;
+    background-color: #fff;
+}
+Inherited from html
+html {
+    font: 14px/1.8 "Roboto", "Helvetica", "lucida grande", sans-serif, sans-serif;
+    font-weight: 300;
+}
+html {
+    background: #fff;
+    color: #000;
+    font-family: sans-serif;
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+}
+Pseudo ::before element
+*, *:before, *:after {
+    box-sizing: border-box;
+}
+Pseudo ::after element
+*, *:before, *:after {
+    box-sizing: border-box;
+}
+
+
+
+
+
+
+
+<div class="image-row">
+            <div class="image-set">
+              <a class="example-image-link" href="images/image-3.jpg" data-lightbox="example-set" data-title="Click the right half of the image to move forward."><img class="example-image" src="images/thumb-3.jpg" alt="Golden Gate Bridge with San Francisco in distance"></a>
+              <a class="example-image-link" href="images/image-4.jpg" data-lightbox="example-set" data-title="Or press the right arrow on your keyboard."><img class="example-image" src="images/thumb-4.jpg" alt="Forest with mountains behind"></a>
+              <a class="example-image-link" href="images/image-5.jpg" data-lightbox="example-set" data-title="The next image in the set is preloaded as you're viewing."><img class="example-image" src="images/thumb-5.jpg" alt="Bicyclist looking out over hill at ocean"></a>
+              <a class="example-image-link" href="images/image-6.jpg" data-lightbox="example-set" data-title="Click anywhere outside the image or the X to the right to close."><img class="example-image" src="images/thumb-6.jpg" alt="Small lighthouse at bottom with ocean behind"></a>
+            </div>
+          </div>
+<div class="image-set">
+              <a class="example-image-link" href="images/image-3.jpg" data-lightbox="example-set" data-title="Click the right half of the image to move forward."><img class="example-image" src="images/thumb-3.jpg" alt="Golden Gate Bridge with San Francisco in distance"></a>
+              <a class="example-image-link" href="images/image-4.jpg" data-lightbox="example-set" data-title="Or press the right arrow on your keyboard."><img class="example-image" src="images/thumb-4.jpg" alt="Forest with mountains behind"></a>
+              <a class="example-image-link" href="images/image-5.jpg" data-lightbox="example-set" data-title="The next image in the set is preloaded as you're viewing."><img class="example-image" src="images/thumb-5.jpg" alt="Bicyclist looking out over hill at ocean"></a>
+              <a class="example-image-link" href="images/image-6.jpg" data-lightbox="example-set" data-title="Click anywhere outside the image or the X to the right to close."><img class="example-image" src="images/thumb-6.jpg" alt="Small lighthouse at bottom with ocean behind"></a>
+            </div>
+
+
+
+
+
+
+
+<div id="lightbox" class="lightbox" style="display: block; top: 550px; left: 0px;">
+<div class="lb-outerContainer" style="width: 253px; height: 355px;">
+<div class="lb-container">
+<img class="lb-image" src="images/image-5.jpg" style="display: block; width: 245px; height: 347px;">
+<div class="lb-nav" style="display: block;">
+<a class="lb-prev" href="" style="display: block;"></a>
+<a class="lb-next" href="" style="display: block;"></a></div>
+<div class="lb-loader" style="display: none; opacity: 0;"><a class="lb-cancel"></a></div></div></div>
+<div class="lb-dataContainer" style="display: block; width: 253px;"><div class="lb-data">
+<div class="lb-details">
+<span class="lb-caption" style="display: inline;">The next image in the set is preloaded as you're viewing.</span>
+<span class="lb-number" style="display: block;">Image 3 of 4</span></div>
+<div class="lb-closeContainer"><a class="lb-close"></a></div></div></div></div>
+
+
+
+
+
+
+<div id="lightboxOverlay" class="lightboxOverlay" style="width: 1423px; height: 4787px; display: block;"></div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
